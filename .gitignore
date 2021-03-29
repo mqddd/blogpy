@@ -7,4 +7,5 @@ venv/
 # db
 db.sqlite3
 
+# migrations
 blog/migrations/
